@@ -1,11 +1,11 @@
 ---
 layout: page
-title: About the Theme
+title: Nikolaos Mitrakis
 tags: [about, Jekyll, theme, moon]
-date: 2016-03-21
+date: 2016-05-26
 ---
     
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
+<center><a href="http://sonefmuc.github.io/sonefmuc"><b>Moon</b></a> Personal website</center>
 
 ## Features
 * Minimal, you can focus on your content
